@@ -1,0 +1,18 @@
+.Note{
+	background: #EEE;
+    padding: 2px 31px;
+    border-left: 17px solid #0073aa;
+    margin-bottom: 10px;
+}
+.Note h4{
+	color: #0073aa;
+}
+.Note .detalies{
+	color: #000;
+}
+.Note .piroity{
+	color: #555d66;
+}
+.Note .due-date{
+	color: #bb0000;
+}
